@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Wenzyiod
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on Automation
-- 📫 How to reach me İG:Akilcagi_
+- 👀 I’m interested in Game Development
+- 📫 How to reach me İG:gamedevelopingwithmevlan
 
 <!---
 Wenzyiod/Wenzyiod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
